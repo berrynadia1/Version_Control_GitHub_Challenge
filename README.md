@@ -1,0 +1,4 @@
+#Answering Exercise Questions
+The terminal is basically commands on commands that allow you to easily push projects and folders to Github. It also makes making changes to your operating system easier.
+GitHub allows you to store all your code and repositories into one server or in a cloud. Git allows you to work on projects overtime and over and over again.. meaning if something get lost along the way and you need to go back to that step, Git allows that.
+We use GitHub because we can keep track of our code and track our progress along the way. We can work on coding projects easier and allow others to see our coding as well.
